@@ -38,7 +38,7 @@ class Ui_Dialog(object):
     def retranslateUi(self, Dialog):
         _translate = QtCore.QCoreApplication.translate
         Dialog.setWindowTitle(_translate("Dialog", "Dialog"))
-        self.pushButton.setText(_translate("Dialog", "Convert To Bianary"))
+        self.pushButton.setText(_translate("Dialog", "Convert To Binary"))
         self.label.setText(_translate("Dialog", "Input"))
         self.label_2.setText(_translate("Dialog", "Output"))
 
