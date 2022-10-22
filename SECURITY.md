@@ -7,6 +7,7 @@ Version 1.0 is the most recent version & is currently been supported.
 | Version | Supported          |
 | ------- | ------------------ |
 | 1.0   | :white_check_mark: |
+| 2.1 (Alpha)| 🚫 |
 
 
 ## Reporting a Vulnerability
